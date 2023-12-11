@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Contact with me (plz):</h3>
+<h3 align="left">Contact me (plz):</h3>
 
 ###
 
