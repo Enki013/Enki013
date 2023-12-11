@@ -9,11 +9,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start&size=26&pause=1000&color=8B2323&center=true&random=true&width=435&lines=Just+dev.)](https://git.io/typing-svg)
 
 <hr>
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
-  <img src="https://github.com/Enki013/Enki013/assets/39771190/783fb09a-6cb5-4700-b1d1-877342f6d586" style="width: 45%;" />
-    <img src="https://github.com/Enki013/Enki013/assets/39771190/12472f11-8a3b-4426-94e8-d5b3223dea24" style="width: 54%;" />
 
-</div>
+![GIF 1](https://github.com/Enki013/Enki013/assets/39771190/783fb09a-6cb5-4700-b1d1-877342f6d586)
+![GIF 2](https://github.com/Enki013/Enki013/assets/39771190/12472f11-8a3b-4426-94e8-d5b3223dea24)
+
 
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
