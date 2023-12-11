@@ -11,7 +11,7 @@
 <hr>
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/Enki013/Enki013/assets/39771190/783fb09a-6cb5-4700-b1d1-877342f6d586" style="width: 45%;" />
-    <img src="https://github.com/Enki013/Enki013/assets/39771190/12472f11-8a3b-4426-94e8-d5b3223dea24" style="width: 55%;" />
+    <img src="https://github.com/Enki013/Enki013/assets/39771190/12472f11-8a3b-4426-94e8-d5b3223dea24" style="width: 45%;" />
 
 </div>
 
