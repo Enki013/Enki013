@@ -20,9 +20,9 @@
 
 
 <hr>
-<div style="display: center; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=enki013&show_icons=true&locale=en" alt="enki013""  style="width: 45%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enki013&" alt="enki013";" style="width: 45%;" />
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=enki013&show_icons=true&locale=en" alt="enki013" style="width: 48%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enki013" alt="enki013" style="width: 48%;" />
 </div>
   <img src="https://github.com/Enki013/Enki013/assets/39771190/a2e225b4-32de-4ea2-aa45-7cc07e91ef5c" style="width: 45%;" />
 
