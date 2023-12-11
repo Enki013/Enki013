@@ -24,9 +24,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=enki013&show_icons=true&locale=en" alt="enki013"" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enki013&" alt="enki013";" />
 </div>
+  <img src="https://github.com/Enki013/Enki013/assets/39771190/a2e225b4-32de-4ea2-aa45-7cc07e91ef5c" style="width: 45%;" />
 
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me(plz):</h3>
 <p align="left">
-<a href="https://twitter.com/wndwsprntrfixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wndwsprntrfixer" height="30" width="40" /></a>
+
+[![Twitter](https://img.shields.io/badge/Twitter-blue)](https://www.instagram.com/i_miss_us_loll/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple)](https://www.instagram.com/i_miss_us_loll/)
+  [![Mail](https://img.shields.io/badge/Email-enki0013@gmail.com-red)](mailto:enki0013@gmail.com)
 </p>
