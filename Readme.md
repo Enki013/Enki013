@@ -1,6 +1,6 @@
 
 
-<h2 align="left">I'm Enki</h2>
+<h1 align="center">I'm Enki</h1>
 
 
 
@@ -11,6 +11,12 @@
 <hr>
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/Enki013/Enki013/assets/39771190/783fb09a-6cb5-4700-b1d1-877342f6d586" style="width: 45%;" />
+    <img src="https://github.com/Enki013/Enki013/assets/39771190/12472f11-8a3b-4426-94e8-d5b3223dea24" style="width: 55%;" />
+
+</div>
+
+<div style="display: flex; justify-content: center;">
+
 </div>
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=enki013&show_icons=true&locale=en" alt="enki013" style="width: 48%;" />
@@ -21,10 +27,6 @@
 
 
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/Enki013/Enki013/assets/39771190/783fb09a-6cb5-4700-b1d1-877342f6d586" style="width: 45%;" />
-
-</div>
 
 
 </div>
