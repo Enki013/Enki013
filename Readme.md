@@ -34,7 +34,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Enki013.Enki013&left_color=darkred&right_color=darkred&left_text=love%meter"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Enki013.Enki013&left_color=darkred&right_color=darkred&left_text=love%20meter"  />
 
 ###
 
