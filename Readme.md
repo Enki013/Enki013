@@ -46,6 +46,6 @@
 
 ###
 
- [![Twitter](https://img.shields.io/badge/Twitter-blue)](https://www.instagram.com/i_miss_us_loll/) [![Instagram](https://img.shields.io/badge/Instagram-purple)](https://www.instagram.com/i_miss_us_loll/)  [![Mail](https://img.shields.io/badge/Email-enki0013@gmail.com-red)](mailto:enki0013@gmail.com)
+ [![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/wndwsprntrfixer/) [![Instagram](https://img.shields.io/badge/Instagram-purple)](https://www.instagram.com/i_miss_us_loll/)  [![Mail](https://img.shields.io/badge/Email-enki0013@gmail.com-red)](mailto:enki0013@gmail.com)
 
 ###
