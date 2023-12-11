@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enki</h1>
+<h2 align="center">I'm Enki</h2>
 <h3 align="center">just dev.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enki013" alt="enki013" /></a> </p>
