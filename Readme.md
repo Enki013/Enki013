@@ -8,7 +8,7 @@
 
 ###
 
-<img align="left" height="200" src="https://github.com/Enki013/Enki013/assets/39771190/783fb09a-6cb5-4700-b1d1-877342f6d586"  />
+<img align="left" height="150" src="https://github.com/Enki013/Enki013/assets/39771190/783fb09a-6cb5-4700-b1d1-877342f6d586"  />
 
 ###
 
