@@ -8,7 +8,7 @@
   <br clear="right"/>
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -22,13 +22,13 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
   <img height="320" src="https://github.com/Enki013/Enki013/assets/39771190/12472f11-8a3b-4426-94e8-d5b3223dea24" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <a href="https://open.spotify.com/user/11bsj6e8way2pgb1sdkn2tqbu">
@@ -36,9 +36,9 @@
   </a>
 </div>
 
----
+<br/>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td>
       <img height="200" src="https://github.com/Enki013/Enki013/assets/39771190/a2e225b4-32de-4ea2-aa45-7cc07e91ef5c" />
