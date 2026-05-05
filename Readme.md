@@ -17,7 +17,6 @@
 
 <br/><br/>
 
-<img src="https://ghstats.dev/api/mini?username=Enki013&metric=streak&color=58a6ff" height="32" alt="streak graph" />
 </div>
 
 <br/>
