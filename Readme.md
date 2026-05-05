@@ -13,9 +13,9 @@
 ###
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Enki013&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="155" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Enki013&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Enki013&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+   <img src="https://ghstats.dev/api/card?username=Enki013&theme=dark&hide_title=true" height="155" alt="stats graph"  />
+  <img src="https://ghstats.dev/api/langs?username=Enki013&theme=dark&hide_title=true" height="150" alt="languages graph"  />
+  <img src="https://ghstats.dev/api/mini?username=Enki013&metric=streak&color=58a6ff" height="20" alt="streak graph"  />
 </div>
 
 ###
@@ -42,7 +42,7 @@
 
 ###
 
-<img align="left" height="200" src="https://github.com/Enki013/Enki013/assets/39771190/a2e225b4-32de-4ea2-aa45-7cc07e91ef5c"  />
+ <img align="left" height="200" src="https://github.com/Enki013/Enki013/assets/39771190/a2225b4-32de-4ea2-aa45-7cc07e91ef5c"  />
 
 ###
 
