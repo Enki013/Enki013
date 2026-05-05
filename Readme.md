@@ -12,26 +12,19 @@
 <img src="https://ghstats.dev/api/card?username=Enki013&theme=dark&hide_title=true" height="280" alt="stats graph" />
 
 <br/><br/>
-
-<img src="https://ghstats.dev/api/langs?username=Enki013&theme=dark&hide_title=true" height="230" alt="languages graph" />
-
-<br/><br/>
-
-</div>
-
-<br/>
-
 <div align="center">
   <img height="320" src="https://github.com/Enki013/Enki013/assets/39771190/12472f11-8a3b-4426-94e8-d5b3223dea24" />
 </div>
 
+<img src="https://ghstats.dev/api/langs?username=Enki013&theme=dark&hide_title=true" height="230" alt="languages graph" />
+
+
+</div>
+
 <br/>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/11bsj6e8way2pgb1sdkn2tqbu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11bsj6e8way2pgb1sdkn2tqbu&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
+<br/>
+
 
 <br/>
 
