@@ -9,16 +9,10 @@
 <br/>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enki013&theme=github_dark&v=20260604b" width="70%" alt="stats graph" />
-
-<br/><br/>
-<div align="center">
-  <img height="320" src="https://github.com/Enki013/Enki013/assets/39771190/12472f11-8a3b-4426-94e8-d5b3223dea24" />
-</div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Enki013&theme=github_dark&v=20260604b" width="70%" alt="languages graph" />
-
-
+  <img height="28" src="https://img.shields.io/github/followers/Enki013?style=flat-square&label=Followers&color=8B2323&labelColor=111111" alt="github followers" />
+  <img height="28" src="https://img.shields.io/github/stars/Enki013?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Stars&color=8B2323&labelColor=111111" alt="github stars" />
+  <img height="28" src="https://komarev.com/ghpvc/?username=Enki013&style=flat-square&label=Views&color=8B2323" alt="profile views" />
+  <img height="28" src="https://img.shields.io/badge/UTC%2B3-night%20commits-8B2323?style=flat-square&labelColor=111111" alt="utc plus three night commits" />
 </div>
 
 <br/>
