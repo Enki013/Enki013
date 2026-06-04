@@ -9,14 +9,14 @@
 <br/>
 
 <div align="center">
-<img src="https://ghstats.dev/api/card?username=Enki013&theme=dark&hide_title=true" height="280" alt="stats graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enki013&theme=github_dark&v=20260604b" width="70%" alt="stats graph" />
 
 <br/><br/>
 <div align="center">
   <img height="320" src="https://github.com/Enki013/Enki013/assets/39771190/12472f11-8a3b-4426-94e8-d5b3223dea24" />
 </div>
 
-<img src="https://ghstats.dev/api/langs?username=Enki013&theme=dark&hide_title=true" height="230" alt="languages graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Enki013&theme=github_dark&v=20260604b" width="70%" alt="languages graph" />
 
 
 </div>
