@@ -9,9 +9,7 @@
 <br/>
 
 <div align="center">
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enki013&theme=github_dark&v=20260605c" alt="github stats card" />
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Enki013&theme=github_dark&v=20260605c" alt="most used languages" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Enki013&theme=kanagawa-paper&hide_border=true" alt="GitHub Streak" /></a></div>
 
 <br/>
 
