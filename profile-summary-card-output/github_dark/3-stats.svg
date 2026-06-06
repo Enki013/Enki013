@@ -11,14 +11,15 @@
   <text class="title" x="24" y="34">Enki013 GitHub Stats</text>
   <circle cx="32" cy="61" r="5" fill="#d29922"/>
   <text class="label" x="46" y="66">Total Stars</text>
-  <text class="value" x="24" y="98">pending</text>
+  <text class="value" x="24" y="98">39</text>
   <circle cx="216" cy="61" r="5" fill="#58a6ff"/>
   <text class="label" x="230" y="66">Total Forks</text>
-  <text class="value" x="208" y="98">pending</text>
+  <text class="value" x="208" y="98">5</text>
   <circle cx="32" cy="123" r="5" fill="#bc8cff"/>
   <text class="label" x="46" y="128">Public Repos</text>
-  <text class="value" x="24" y="160">pending</text>
+  <text class="value" x="24" y="160">17</text>
   <circle cx="216" cy="123" r="5" fill="#3fb950"/>
   <text class="label" x="230" y="128">Contributions</text>
-  <text class="value" x="208" y="160">pending</text>
+  <text class="value" x="208" y="160">290</text>
+  <text class="small" x="24" y="170">Last updated: 2026-06-06</text>
 </svg>
