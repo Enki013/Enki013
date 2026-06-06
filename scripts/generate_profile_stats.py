@@ -280,7 +280,7 @@ def render_streak_card(user):
   <text class="label" x="558" y="76">Last 365 Days</text>
   <text class="value" x="558" y="116">{compact(total)}</text>
   <line x1="42" y1="142" x2="738" y2="142" stroke="{THEME["border"]}"/>
-  <text class="small" x="42" y="168">Generated daily with GitHub Actions. No third-party stats service is used at README render time.</text>
+  <text class="small" x="42" y="168">Generated daily with GitHub Actions. </text>
 """
     return card_shell(780, 190, f"{user['login']} Contribution Streak", body)
 
