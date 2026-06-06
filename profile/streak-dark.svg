@@ -15,8 +15,8 @@
   <text class="label" x="300" y="76">Longest Streak</text>
   <text class="value" x="300" y="116">8 days</text>
   <text class="label" x="558" y="76">Last 365 Days</text>
-  <text class="value" x="558" y="116">292</text>
+  <text class="value" x="558" y="116">293</text>
   <line x1="42" y1="142" x2="738" y2="142" stroke="#30363d"/>
-  <text class="small" x="42" y="168">Generated daily with GitHub Actions. No third-party stats service is used at README render time.</text>
+  <text class="small" x="42" y="168">Generated daily with GitHub Actions. </text>
 
 </svg>
