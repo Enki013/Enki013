@@ -258,14 +258,14 @@ def render_language_card(user, repos):
         width = max(4, int(330 * percent))
         rows.append(f'  <text class="label" x="24" y="{y}">{esc(language)}</text>')
         rows.append(f'  <text class="small" x="360" y="{y}" text-anchor="end">{percent * 100:.1f}%</text>')
-        rows.append(f'  <rect x="24" y="{y + 10}" width="330" height="8" rx="4" fill="#21262d"/>')
-        rows.append(f'  <rect x="24" y="{y + 10}" width="{width}" height="8" rx="4" fill="{esc(colors.get(language, THEME["blue"]))}"/>')
-        y += 26
+        rows.append(f'  <rect x="24" y="{y + 12}" width="330" height="8" rx="4" fill="#21262d"/>')
+        rows.append(f'  <rect x="24" y="{y + 12}" width="{width}" height="8" rx="4" fill="{esc(colors.get(language, THEME["blue"]))}"/>')
+        y += 35
 
     if not top:
         rows.append('  <text class="label" x="24" y="92">No language data available yet.</text>')
 
-    return card_shell(420, 190, "Most Used Languages", "\n".join(rows))
+    return card_shell(420, 230, "Most Used Languages", "\n".join(rows))
 
 
 def render_streak_card(user):
