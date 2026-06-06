@@ -238,13 +238,13 @@ def render_stats_card(user, repos):
     cells = []
     for index, (label, value, color) in enumerate(values):
         x = 24 + (index % 2) * 184
-        y = 66 + (index // 2) * 62
+        y = 76 + (index // 2) * 72
         cells.append(f'  <circle cx="{x + 8}" cy="{y - 5}" r="5" fill="{color}"/>')
         cells.append(f'  <text class="label" x="{x + 22}" y="{y}">{esc(label)}</text>')
         cells.append(f'  <text class="value" x="{x}" y="{y + 32}">{esc(value)}</text>')
 
-    cells.append(f'  <text class="small" x="24" y="170">Last updated: {esc(local_today().isoformat())}</text>')
-    return card_shell(420, 190, f"{user['login']} GitHub Stats", "\n".join(cells))
+    cells.append(f'  <text class="small" x="24" y="210">Last updated: {esc(local_today().isoformat())}</text>')
+    return card_shell(420, 230, f"{user['login']} GitHub Stats", "\n".join(cells))
 
 
 def render_language_card(user, repos):
