@@ -9,7 +9,11 @@
 <br/>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Enki013&theme=kanagawa-paper&hide_border=true" alt="GitHub Streak" /></a></div>
+  <img width="88%" src="profile/streak-dark.svg" alt="github streak stats" />
+  <br/>
+  <img width="44%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="github stats card" />
+  <img width="44%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="most used languages" />
+</div>
 
 <br/>
 

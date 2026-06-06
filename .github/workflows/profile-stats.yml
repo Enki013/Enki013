@@ -1,0 +1,37 @@
+name: Update profile stats
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-stats.yml"
+      - "scripts/generate_profile_stats.py"
+      - "Readme.md"
+  schedule:
+    - cron: "12 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-profile-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile stats
+        run: python3 scripts/generate_profile_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          PROFILE_STATS_TIMEZONE: Europe/Istanbul
+
+      - name: Commit generated stats
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile-summary-card-output profile
+          git commit -m "Update profile stats" || exit 0
+          git push
