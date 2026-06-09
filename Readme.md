@@ -9,7 +9,6 @@
 <br/>
 
 <div align="center">
-  <img width="88%" src="profile/streak-dark.svg" alt="github streak stats" />
   <br/>
   <img width="44%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="github stats card" />
   <img width="44%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="most used languages" />
