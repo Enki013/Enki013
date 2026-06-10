@@ -17,9 +17,9 @@
   <text class="value" x="208" y="108">5</text>
   <circle cx="32" cy="143" r="5" fill="#bc8cff"/>
   <text class="label" x="46" y="148">Public Repos</text>
-  <text class="value" x="24" y="180">17</text>
+  <text class="value" x="24" y="180">18</text>
   <circle cx="216" cy="143" r="5" fill="#3fb950"/>
   <text class="label" x="230" y="148">Contributions</text>
-  <text class="value" x="208" y="180">306</text>
-  <text class="small" x="24" y="210">Last updated: 2026-06-09</text>
+  <text class="value" x="208" y="180">304</text>
+  <text class="small" x="24" y="210">Last updated: 2026-06-10</text>
 </svg>
