@@ -10,7 +10,7 @@
   <rect x="0.5" y="0.5" width="419" height="229" rx="8" fill="#0d1117" stroke="#30363d"/>
   <text class="title" x="24" y="34">Most Used Languages</text>
   <text class="label" x="24" y="64">Kotlin</text>
-  <text class="small" x="360" y="64" text-anchor="end">43.0%</text>
+  <text class="small" x="360" y="64" text-anchor="end">43.2%</text>
   <rect x="24" y="76" width="330" height="8" rx="4" fill="#21262d"/>
   <rect x="24" y="76" width="142" height="8" rx="4" fill="#A97BFF"/>
   <text class="label" x="24" y="99">C#</text>
@@ -18,11 +18,11 @@
   <rect x="24" y="111" width="330" height="8" rx="4" fill="#21262d"/>
   <rect x="24" y="111" width="48" height="8" rx="4" fill="#178600"/>
   <text class="label" x="24" y="134">Python</text>
-  <text class="small" x="360" y="134" text-anchor="end">13.1%</text>
+  <text class="small" x="360" y="134" text-anchor="end">13.0%</text>
   <rect x="24" y="146" width="330" height="8" rx="4" fill="#21262d"/>
   <rect x="24" y="146" width="43" height="8" rx="4" fill="#3572A5"/>
   <text class="label" x="24" y="169">Swift</text>
-  <text class="small" x="360" y="169" text-anchor="end">11.9%</text>
+  <text class="small" x="360" y="169" text-anchor="end">11.8%</text>
   <rect x="24" y="181" width="330" height="8" rx="4" fill="#21262d"/>
   <rect x="24" y="181" width="39" height="8" rx="4" fill="#F05138"/>
   <text class="label" x="24" y="204">HTML</text>
