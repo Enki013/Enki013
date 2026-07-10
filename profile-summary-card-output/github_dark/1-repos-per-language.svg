@@ -14,9 +14,9 @@
   <rect x="24" y="76" width="330" height="8" rx="4" fill="#21262d"/>
   <rect x="24" y="76" width="133" height="8" rx="4" fill="#A97BFF"/>
   <text class="label" x="24" y="99">Python</text>
-  <text class="small" x="360" y="99" text-anchor="end">17.2%</text>
+  <text class="small" x="360" y="99" text-anchor="end">17.3%</text>
   <rect x="24" y="111" width="330" height="8" rx="4" fill="#21262d"/>
-  <rect x="24" y="111" width="56" height="8" rx="4" fill="#3572A5"/>
+  <rect x="24" y="111" width="57" height="8" rx="4" fill="#3572A5"/>
   <text class="label" x="24" y="134">C#</text>
   <text class="small" x="360" y="134" text-anchor="end">13.7%</text>
   <rect x="24" y="146" width="330" height="8" rx="4" fill="#21262d"/>
