@@ -20,7 +20,7 @@
   <text class="label" x="24" y="134">C#</text>
   <text class="small" x="360" y="134" text-anchor="end">13.6%</text>
   <rect x="24" y="146" width="330" height="8" rx="4" fill="#21262d"/>
-  <rect x="24" y="146" width="44" height="8" rx="4" fill="#178600"/>
+  <rect x="24" y="146" width="44" height="8" rx="4" fill="#7355dd"/>
   <text class="label" x="24" y="169">Swift</text>
   <text class="small" x="360" y="169" text-anchor="end">11.3%</text>
   <rect x="24" y="181" width="330" height="8" rx="4" fill="#21262d"/>
