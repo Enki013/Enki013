@@ -26,7 +26,7 @@
   <rect x="24" y="181" width="330" height="8" rx="4" fill="#21262d"/>
   <rect x="24" y="181" width="24" height="8" rx="4" fill="#3178c6"/>
   <text class="label" x="24" y="204">Swift</text>
-  <text class="small" x="360" y="204" text-anchor="end">6.2%</text>
+  <text class="small" x="360" y="204" text-anchor="end">6.1%</text>
   <rect x="24" y="216" width="330" height="8" rx="4" fill="#21262d"/>
   <rect x="24" y="216" width="20" height="8" rx="4" fill="#F05138"/>
 </svg>
